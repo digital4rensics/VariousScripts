@@ -2,7 +2,7 @@
 
 """
 PairSort.py originally written by Keith Gilbert - @digital4rensics
-www.digital4rensics.com - 3/4/12 - Version 0.2
+www.digital4rensics.com - 3/4/13 - Version 0.2
 
 This script will parse comma separated elements in a file (2 per line) and produce
 a full list of matches for each element. Example output is below.
